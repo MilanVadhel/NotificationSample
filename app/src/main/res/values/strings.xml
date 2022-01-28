@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationSample</string>
+    <string name="post_simple_notification">Post simple notification</string>
+    <string name="post_notification_with_click">Post Notification With click</string>
+    <string name="first_activity">First Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="third_activity">Third Activity</string>
+</resources>
